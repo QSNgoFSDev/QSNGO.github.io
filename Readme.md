@@ -40,4 +40,13 @@
       
       
  I strongly recommend to visit original site to read about Growth Mindset to has a full experience of information and guidance from the original authors. :eye_speech_bubble::eye_speech_bubble::eye_speech_bubble::eye_speech_bubble::eye_speech_bubble::100::100::100:
+ 
+ 
+ 
+Mình là Sáng, mình có mày mò tự làm web, nhưng thấy bản thân còn quá nhiều chỗ chưa hiểu, muốn hệ thống lại kiến thức vững hơn, nên mình tìm tới ACL.hiện mình là học viên mới của ACL, mong mọi người giúp đỡ và chỉ giáo, đây là link Github của mình :https://github.com/QSNgoFSDev
+GitHubGitHub
+QSNgoFSDev - Overview
+QSNgoFSDev has 4 repositories available. Follow their code on GitHub.
+
+
      
