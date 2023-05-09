@@ -15,16 +15,16 @@ This requires carefully following [instructions]( https://codefellows.github.io/
 
 By the time you’ve completed the guide, you should be able to run the following commands in your terminal and have each report a version number of what’s installed.
 
-*code --version
-*git --version
-*node --version
-*npm --version
-*eslint --version
-*tree --version
+* code --version
+ *git --version
+* node --version
+* npm --version
+* eslint --version
+* tree --version
 Furthermore, the following commands will show you how you have a few key items configured
 
-*echo $PS1
-*cat ~/.gitconfig
+* echo $PS1
+* cat ~/.gitconfig
 
 ### noted 
 
