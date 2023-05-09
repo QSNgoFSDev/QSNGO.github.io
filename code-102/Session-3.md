@@ -52,3 +52,4 @@ Then make directory for code-102 and code 201 with 8 files and 15 files respecti
 
 Let your clone directory is home page, created folder on such local homepage directory.
 
+Test git add

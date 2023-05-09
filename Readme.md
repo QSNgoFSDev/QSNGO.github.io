@@ -53,6 +53,8 @@ It might not be possible to retrofit a company to have a similar level of openne
 I strongly recommend to visit original site to read about Growth Mindset to has a full experience of information and guidance from the original authors. :eye_speech_bubble::eye_speech_bubble::eye_speech_bubble::eye_speech_bubble::eye_speech_bubble::100::100::100:
 
 
+Test git add fir Readme.md 5/9/2023.
+
 
 GitHubGitHub
 QSNgoFSDev - Overview
