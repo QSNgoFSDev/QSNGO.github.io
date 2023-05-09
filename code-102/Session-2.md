@@ -8,7 +8,7 @@ This session is about setup Github and terminal, so that we can have a proper wo
 
 Follow the Computer Setup Guide to prepare your development machine for serious coding.
 
-This requires carefully following ![**instructions**](https://codefellows.github.io/setup-guide/), and potentially interpreting esoteric error messages. Practice those detail-oriented skills! Take things slowly, and if things go wrong, don’t hesitate to get help.
+This requires carefully following [instructions]( https://codefellows.github.io/setup-guide/ ), and potentially interpreting esoteric error messages. Practice those detail-oriented skills! Take things slowly, and if things go wrong, don’t hesitate to get help.
 
 ## Requirement
 
