@@ -11,52 +11,69 @@
 // document.write ('Thank you ' + myName + ',' + 'you are'+ age +' years old , you are ' + gender + ', whos live in ,' + address)
 
 let myName= prompt("Is my name is Sang ? (answer it format Yes/No)");
-let name = myName.toLocaleLowerCase();
+let standardName = myName.toLowerCase();
 
-function guessName(name) {
-  if ((name === "Yes" || "Y")) {
+function guessName(myName) {
+  if ((myName === "yes" || myName === "y")) {
     document.write ('Correct'), 
     alert("Correct");
   } else {
-    document.write ('Correct')
+    document.write ('Wrong'),
     alert("Wrong");
   }
 }
 
-
+guessName(standardName)
 
 
 let age = prompt("Am I 29 years old? (answer it format Yes/No)");
 let Age = age.toLocaleLowerCase();
 
-function guessAge(Age) {
-  if (Age === "Yes" || "Y") {
-    return alert("Correct");
+function guessAge(age) {
+  if ((age === "yes" || age === "y")) {
+    document.write ('Correct'), 
+    alert("Correct");
   } else {
-    return alert("Wrong");
+    document.write ('Wrong'),
+    alert("Wrong");
   }
 }
 
+guessAge(Age)
+
 let gender = prompt(" Am I Male ? (answer it format Yes/No)");
 let Gender = gender.toLowerCase();
-function guessAge(Gender) {
-  if ((Gender === "Yes" || "Y")) {
-    return alert("Correct");
+function guessGender(gender) {
+  if ((age === "yes" || age === "y")) {
+    document.write ('Correct'), 
+    alert("Correct");
   } else {
-    return "wrong";
+    document.write ('Wrong'),
+    alert("Wrong");
   }
 }
+
+guessGender(Gender)
+
+
+
+
 
 let address = prompt("Am I live in Hochiminh city? (answer it format Yes/No)");
 let Address = address.toLocaleLowerCase();
 
 function guessAdress(Address) {
-  if ((Address === "Yes" || "Y")) {
-    return alert("Correct");
+  if ((address === "yes" || address === "y")) {
+    document.write ('Correct'), 
+    alert("Correct");
   } else {
-    return alert("Wrong");
+    document.write ('Wrong'),
+    alert("Wrong");
   }
 }
+
+guessAdress(address)
+
 
 let workExp = prompt(
   "Am I a junior in Fullstack web dev (answer it format Yes/No) "
@@ -64,10 +81,14 @@ let workExp = prompt(
 
 let WorkExp = workExp.toLocaleLowerCase();
 
-function guessWorkExp(WorkExp) {
-  if ((Address === "Yes" || "Y")) {
-    return alert("Correct");
+function guessWorkExp(workExp) {
+  if ((workExp === "yes" || workExp === "y")) {
+    document.write ('Correct'), 
+    alert("Correct");
   } else {
-    return "Wrong";
+    document.write ('Wrong'),
+    alert("Wrong");
   }
 }
+
+guessWorkExp(WorkExp)

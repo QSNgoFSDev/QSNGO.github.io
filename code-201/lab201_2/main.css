@@ -34,4 +34,6 @@ h1 {
     text-align: justify;
     text-transform: uppercase;
     text-decoration: wavy;
-}
+    list-style-type: none;
+    border-image-width: 100px;}
+
