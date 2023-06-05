@@ -164,3 +164,25 @@ function FavPlaceGame() {
 }
 
 FavPlaceGame();
+
+
+function FavPlaceGame() {
+  let correctAnswers = ['Paris', 'London', 'Rome', 'Tokyo', 'New York', 'Sydney'];
+  let attempts = 6;
+
+  for (let i = 1; i <= attempts; i++) {
+    let guess = prompt('Guess one of my favorite places:');
+
+    if (correctAnswers.includes(guess)) {
+      alert('Correct!');
+      return; 
+    //   exit if correct
+    } else {
+      alert('Incorrect!');
+    }
+  }
+
+  alert('You have run out of attempts. The correct answers are: ' + correctAnswers.join(', '));
+}
+
+FavPlaceGame();
