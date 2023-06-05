@@ -41,8 +41,10 @@ function guessAge(age) {
 
 guessAge(Age)
 
-let gender = prompt(" Am I Male ? (answer it format Yes/No)");
+let gender = prompt (" Am I Male ? (answer it format Yes/No)");
 let Gender = gender.toLowerCase();
+
+
 function guessGender(gender) {
   if ((age === "yes" || age === "y")) {
     document.write ('Correct'), 
@@ -62,7 +64,7 @@ guessGender(Gender)
 let address = prompt("Am I live in Hochiminh city? (answer it format Yes/No)");
 let Address = address.toLocaleLowerCase();
 
-function guessAdress(Address) {
+function guessAdress(address) {
   if ((address === "yes" || address === "y")) {
     document.write ('Correct'), 
     alert("Correct");
@@ -92,3 +94,4 @@ function guessWorkExp(workExp) {
 }
 
 guessWorkExp(WorkExp)
+
