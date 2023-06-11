@@ -1,0 +1,39 @@
+h1 {
+
+  color: rebeccapurple;
+  background-color: black;
+}
+
+.pa1 {
+  color: yellow;
+  background-color: black;
+  text-decoration: line-through;
+  text-align: center;
+}
+
+.pa2 {
+  color: black;
+  background-color: aquamarine;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  ;
+  font-size: xx-large;
+
+}
+
+.pa3 {
+
+  color: beige;
+  background-color: blue;
+  text-shadow: 3cm;
+  text-align: right;
+}
+
+.pa4 {
+  color: blanchedalmond;
+  background-color: chocolate;
+  text-align: justify;
+  text-transform: uppercase;
+  text-decoration: wavy;
+  list-style-type: none;
+  border-image-width: 100px;
+}
